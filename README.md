@@ -5,10 +5,9 @@
 
 - 💬 Ask me about **React, JavaScript, HTML, CSS, Web accesibility...**
 
-- 📫 How to reach me **agusguevara97@gmail.com**
-
 - 🚶🏽‍♂️In my free time I play videogames, do weightlifting @ gym, and read about mythologies ( currently Norse mythology by Neil Gaiman) 
 
+- 📫 How to reach me **agusguevara97@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
