@@ -7,7 +7,8 @@
 
 - 📫 How to reach me **agusguevara97@gmail.com**
 
--🚶🏽‍♂️In my free time I play videogames, do weightliftin @ gym, and read about mythologies ( currently Norse mythology by Neil Gaiman) 
+- 🚶🏽‍♂️In my free time I play videogames, do weightliftin @ gym, and read about mythologies ( currently Norse mythology by Neil Gaiman) 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
