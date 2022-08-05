@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Agustin Guevara</h1>
-<h3 align="center">Web developer form Argentina, currently working at Globant</h3>
+<h3 align="center">Web developer form Argentina, currently working at Around | The Broadcast Revolution</h3>
 
 - 🌱 I’m currently learning **TypeScript, Node.js, SQL and MongoDB, Kubernetes and Docker**
 
