@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **React, JavaScript, HTML, CSS, Web accesibility...**
 
-- 🚶🏽‍♂️In my free time I play videogames, do weightlifting @ gym, and read about mythologies ( currently Norse mythology by Neil Gaiman) 
+- 🚶🏽‍♂️In my free time I play videogames, do weightlifting @ gym, and play futball at an amateur sports club ( Banco Nacion ) .
 
 - 📫 How to reach me **agusguevara97@gmail.com**
 
