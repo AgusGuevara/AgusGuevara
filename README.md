@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Agustin Guevara</h1>
 <h3 align="center">Web developer form Argentina, currently working at Around | The Broadcast Revolution</h3>
 
-- 🌱 I’m currently learning **TypeScript, Node.js**
+- 🌱 I’m currently training my **TypeScript and Node.js** skills
 
 - 💬 Ask me about **React, JavaScript, HTML, CSS, Web accesibility...**
 
