@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **React, JavaScript, HTML, CSS, Web accesibility...**
 
-- 🚶🏽‍♂️In my free time I play videogames, do weightlifting @ gym, and play football at an amateur sports club ( Banco Nacion ) .
+- 🚶🏽‍♂️In my free time I play videogames, do weightlifting @ gym, and play football at an amateur sports club.
 
 - 📫 How to reach me **agusguevara97@gmail.com**
 
