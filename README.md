@@ -2,10 +2,8 @@
 <h3 align="center">Web developer form Argentina, currently working at Dymaxion Labs</h3>
 
 - 💬 Ask me about **React, JavaScript, HTML, CSS, Web accesibility...**
-
-- 🚶🏽‍♂️In my free time I play videogames, do weightlifting @ gym, and play football at an amateur sports club.
-
-- 📫 How to reach me **agusguevara97@gmail.com**
+- ⚽ In my free time I play videogames, do weightlifting @ gym, and play football at an amateur sports club.
+- 📫 How to reach me best **agusguevara97@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
